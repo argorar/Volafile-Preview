@@ -4,9 +4,11 @@
 
 Script that allows to see a thumbnail of images and videos in the rooms of volafile.org.
 
-## Install
-[Click to Install](https://argorar.github.io/Volafile-Preview/VolaPreview.js)
+## Install 
+[Click to Install](https://github.com/RealDolos/volascripts/raw/master/volanail.user.js)
 
+## Original Code
+[](https://github.com/RealDolos/volascripts/blob/master/volanail.user.js)
 
 ## Before
 ![Before](/img/1.PNG)
